@@ -1,0 +1,38 @@
+onset	duration	nwb_table	direction	trial_type	label
+0.0	2325.8	epochs			
+11.0	3175.0	sleep_states			Awake
+2325.8	517.5083333333332	epochs			
+2325.8	3.2166666666662422	trials	counter-clockwise	central alternation	
+2342.45	4.050000000000182	trials	counter-clockwise	central alternation	
+2353.6	3.175000000000182	trials	counter-clockwise	central alternation	
+2368.875	4.316666666666606	trials	counter-clockwise	central alternation	
+2375.8	3.375	trials	counter-clockwise	central alternation	
+2383.458333333333	5.341666666667152	trials	counter-clockwise	central alternation	
+2391.975	4.041666666666515	trials	counter-clockwise	central alternation	
+2400.0	3.800000000000182	trials	counter-clockwise	central alternation	
+2406.9083333333333	4.299999999999727	trials	counter-clockwise	central alternation	
+2414.2833333333333	4.724999999999909	trials	counter-clockwise	central alternation	
+2434.6	3.466666666666697	trials	counter-clockwise	central alternation	
+2441.9666666666667	3.924999999999727	trials	counter-clockwise	central alternation	
+2461.625	3.758333333333212	trials	counter-clockwise	central alternation	
+2468.258333333333	3.808333333333394	trials	counter-clockwise	central alternation	
+2476.008333333333	4.574999999999818	trials	counter-clockwise	central alternation	
+2484.383333333333	5.108333333333576	trials	counter-clockwise	central alternation	
+2495.4	4.241666666666333	trials	counter-clockwise	central alternation	
+2511.9166666666665	4.341666666666697	trials	counter-clockwise	central alternation	
+2540.625	4.349999999999909	trials	counter-clockwise	central alternation	
+2548.5583333333334	4.533333333333303	trials	clockwise	central alternation	
+2604.5666666666666	7.266666666666424	trials	clockwise	central alternation	
+2676.6583333333333	4.949999999999818	trials	clockwise	central alternation	
+2686.1833333333334	3.474999999999909	trials	clockwise	central alternation	
+2727.35	3.608333333333576	trials	clockwise	central alternation	
+2736.9333333333334	4.599999999999909	trials	clockwise	central alternation	
+2746.0666666666666	5.558333333333394	trials	clockwise	central alternation	
+2759.9	4.741666666666333	trials	clockwise	central alternation	
+2767.6416666666664	4.725000000000364	trials	clockwise	central alternation	
+2785.2166666666667	5.349999999999909	trials	clockwise	central alternation	
+2800.4333333333334	4.824999999999818	trials	clockwise	central alternation	
+2812.6833333333334	4.799999999999727	trials	clockwise	central alternation	
+2824.6833333333334	6.924999999999727	trials	clockwise	central alternation	
+2838.125	5.183333333333394	trials	clockwise	central alternation	
+2843.3083333333334	343.9876666666664	epochs			

@@ -1,0 +1,360 @@
+onset	duration	nwb_table	direction	trial_type	label
+0.0	15455.8	epochs			
+5.0	416.0	sleep_states			Awake
+422.0	8.0	sleep_states			Non-REM
+457.0	24.0	sleep_states			Non-REM
+527.0	8.0	sleep_states			Non-REM
+536.0	438.0	sleep_states			Awake
+975.0	102.0	sleep_states			Non-REM
+1102.0	16.0	sleep_states			Non-REM
+1176.0	37.0	sleep_states			Non-REM
+1223.0	251.0	sleep_states			Non-REM
+1475.0	540.0	sleep_states			Awake
+2016.0	7.0	sleep_states			Non-REM
+2024.0	140.0	sleep_states			Awake
+2165.0	11.0	sleep_states			Non-REM
+2196.0	7.0	sleep_states			Non-REM
+2228.0	8.0	sleep_states			Non-REM
+2284.0	8.0	sleep_states			Non-REM
+2303.0	9.0	sleep_states			Non-REM
+2405.0	11.0	sleep_states			Non-REM
+2417.0	205.0	sleep_states			Awake
+2623.0	25.0	sleep_states			Non-REM
+2676.0	22.0	sleep_states			Non-REM
+2724.0	433.0	sleep_states			Non-REM
+3232.0	156.0	sleep_states			Non-REM
+3402.0	123.0	sleep_states			Non-REM
+3552.0	191.0	sleep_states			Non-REM
+3755.0	99.0	sleep_states			Non-REM
+3876.0	42.0	sleep_states			Non-REM
+3991.0	113.0	sleep_states			Non-REM
+4124.0	17.0	sleep_states			Non-REM
+4226.0	10.0	sleep_states			Non-REM
+4246.0	28.0	sleep_states			Non-REM
+4300.0	176.0	sleep_states			Non-REM
+4494.0	21.0	sleep_states			Non-REM
+4516.0	97.0	sleep_states			REM
+4628.0	302.0	sleep_states			Non-REM
+4945.0	91.0	sleep_states			REM
+5037.0	378.0	sleep_states			Awake
+5416.0	12.0	sleep_states			Non-REM
+5449.0	52.0	sleep_states			Non-REM
+5514.0	65.0	sleep_states			Non-REM
+5649.0	298.0	sleep_states			Non-REM
+5969.0	54.0	sleep_states			Non-REM
+6052.0	144.0	sleep_states			Non-REM
+6197.0	7.0	sleep_states			REM
+6214.0	7.0	sleep_states			REM
+6233.0	190.0	sleep_states			Non-REM
+6438.0	7.0	sleep_states			Non-REM
+6446.0	117.0	sleep_states			REM
+6614.0	46.0	sleep_states			Non-REM
+6691.0	337.0	sleep_states			Non-REM
+7074.0	99.0	sleep_states			Non-REM
+7174.0	9.0	sleep_states			REM
+7184.0	24.0	sleep_states			Non-REM
+7209.0	20.0	sleep_states			REM
+7230.0	18.0	sleep_states			Non-REM
+7249.0	13.0	sleep_states			REM
+7263.0	46.0	sleep_states			Non-REM
+7310.0	8.0	sleep_states			REM
+7329.0	53.0	sleep_states			Non-REM
+7383.0	20.0	sleep_states			REM
+7413.0	58.0	sleep_states			Non-REM
+7472.0	12.0	sleep_states			REM
+7485.0	47.0	sleep_states			Non-REM
+7533.0	35.0	sleep_states			REM
+7569.0	8.0	sleep_states			Non-REM
+7578.0	90.0	sleep_states			REM
+7716.0	493.0	sleep_states			Non-REM
+8210.0	31.0	sleep_states			REM
+8296.0	57.0	sleep_states			Non-REM
+8364.0	207.0	sleep_states			Non-REM
+8597.0	50.0	sleep_states			Non-REM
+8665.0	15.0	sleep_states			Non-REM
+8704.0	11.0	sleep_states			REM
+8725.0	24.0	sleep_states			REM
+8773.0	7.0	sleep_states			Non-REM
+8781.0	13.0	sleep_states			REM
+8795.0	12.0	sleep_states			Non-REM
+8808.0	13.0	sleep_states			REM
+8822.0	11.0	sleep_states			Non-REM
+8842.0	174.0	sleep_states			Non-REM
+9017.0	25.0	sleep_states			REM
+9064.0	214.0	sleep_states			Non-REM
+9306.0	13.0	sleep_states			Non-REM
+9320.0	52.0	sleep_states			REM
+9381.0	20.0	sleep_states			REM
+9412.0	58.0	sleep_states			REM
+9471.0	26.0	sleep_states			Non-REM
+9498.0	188.0	sleep_states			Awake
+9687.0	9.0	sleep_states			Non-REM
+9697.0	533.0	sleep_states			Awake
+10231.0	12.0	sleep_states			Non-REM
+10255.0	138.0	sleep_states			Non-REM
+10403.0	74.0	sleep_states			Non-REM
+10488.0	181.0	sleep_states			Non-REM
+10682.0	63.0	sleep_states			Non-REM
+10824.0	38.0	sleep_states			Non-REM
+10863.0	809.0	sleep_states			Awake
+11673.0	21.0	sleep_states			Non-REM
+11695.0	113.0	sleep_states			Awake
+11809.0	94.0	sleep_states			Non-REM
+11914.0	57.0	sleep_states			Non-REM
+12053.0	39.0	sleep_states			Non-REM
+12131.0	50.0	sleep_states			Non-REM
+12182.0	148.0	sleep_states			Awake
+12331.0	58.0	sleep_states			Non-REM
+12425.0	81.0	sleep_states			Non-REM
+12518.0	174.0	sleep_states			Non-REM
+12739.0	60.0	sleep_states			Non-REM
+12866.0	98.0	sleep_states			Non-REM
+12998.0	94.0	sleep_states			Non-REM
+13112.0	19.0	sleep_states			Non-REM
+13158.0	43.0	sleep_states			Non-REM
+13214.0	23.0	sleep_states			Non-REM
+13238.0	117.0	sleep_states			Awake
+13356.0	8.0	sleep_states			Non-REM
+13365.0	394.0	sleep_states			Awake
+13760.0	13.0	sleep_states			Non-REM
+13791.0	8.0	sleep_states			Non-REM
+13825.0	9.0	sleep_states			Non-REM
+13846.0	7.0	sleep_states			Non-REM
+13887.0	32.0	sleep_states			Non-REM
+13950.0	33.0	sleep_states			Non-REM
+14062.0	7.0	sleep_states			Non-REM
+14070.0	215.0	sleep_states			Awake
+14286.0	7.0	sleep_states			Non-REM
+14294.0	167.0	sleep_states			Awake
+14462.0	23.0	sleep_states			Non-REM
+14486.0	358.0	sleep_states			Awake
+14845.0	8.0	sleep_states			Non-REM
+14854.0	457.0	sleep_states			Awake
+15312.0	16.0	sleep_states			Non-REM
+15329.0	1277.0	sleep_states			Awake
+15455.8	3182.2583333333314	epochs			
+15455.8	1.2166666666671517	trials	counter-clockwise	central alternation	
+15462.733333333334	1.6083333333335759	trials	counter-clockwise	central alternation	
+15468.375	1.2083333333339397	trials	counter-clockwise	central alternation	
+15471.05	1.133333333333212	trials	counter-clockwise	central alternation	
+15474.05	1.25	trials	counter-clockwise	central alternation	
+15484.074999999999	1.3083333333343035	trials	counter-clockwise	central alternation	
+15488.558333333332	1.3333333333339397	trials	counter-clockwise	central alternation	
+15497.058333333332	1.2250000000003638	trials	counter-clockwise	central alternation	
+15500.966666666667	1.241666666666788	trials	counter-clockwise	central alternation	
+15503.658333333333	1.1499999999996362	trials	counter-clockwise	central alternation	
+15546.65	1.3416666666671517	trials	counter-clockwise	central alternation	
+15556.216666666667	1.7333333333317569	trials	counter-clockwise	central alternation	
+15559.75	1.1999999999989086	trials	counter-clockwise	central alternation	
+15562.55	1.2333333333335759	trials	counter-clockwise	central alternation	
+15565.058333333332	1.4750000000003638	trials	counter-clockwise	central alternation	
+15567.833333333334	1.2166666666653327	trials	counter-clockwise	central alternation	
+15569.983333333334	1.4333333333324845	trials	counter-clockwise	central alternation	
+15576.016666666666	1.1749999999992724	trials	counter-clockwise	central alternation	
+15579.725	1.2249999999985448	trials	counter-clockwise	central alternation	
+15594.691666666666	1.375	trials	counter-clockwise	central alternation	
+15598.008333333333	1.2666666666664241	trials	counter-clockwise	central alternation	
+15610.358333333334	1.1833333333324845	trials	counter-clockwise	central alternation	
+15614.241666666667	1.2333333333335759	trials	counter-clockwise	central alternation	
+15623.558333333332	1.4000000000014552	trials	counter-clockwise	central alternation	
+15630.05	1.3333333333339397	trials	counter-clockwise	central alternation	
+15636.841666666667	1.4666666666653327	trials	counter-clockwise	central alternation	
+15639.891666666666	1.4083333333328483	trials	counter-clockwise	central alternation	
+15644.75	1.375	trials	counter-clockwise	central alternation	
+15654.283333333333	1.3999999999996362	trials	counter-clockwise	central alternation	
+15657.591666666667	1.7333333333317569	trials	counter-clockwise	central alternation	
+15663.158333333333	1.7916666666660603	trials	counter-clockwise	central alternation	
+15666.433333333332	1.4833333333335759	trials	counter-clockwise	central alternation	
+15673.4	1.2999999999992724	trials	counter-clockwise	central alternation	
+15677.008333333333	1.1000000000003638	trials	counter-clockwise	central alternation	
+15683.574999999999	1.4666666666671517	trials	counter-clockwise	central alternation	
+15687.225	1.241666666666788	trials	counter-clockwise	central alternation	
+15692.55	1.383333333333212	trials	counter-clockwise	central alternation	
+15697.008333333333	1.241666666666788	trials	counter-clockwise	central alternation	
+15700.0	1.366666666666788	trials	clockwise	central alternation	
+16607.0	7.0	sleep_states			Non-REM
+16629.0	9.0	sleep_states			Non-REM
+16639.0	604.0	sleep_states			Awake
+17244.0	9.0	sleep_states			Non-REM
+17271.0	15.0	sleep_states			Non-REM
+17287.0	376.0	sleep_states			Awake
+17664.0	8.0	sleep_states			Non-REM
+17673.0	1577.0	sleep_states			Awake
+18343.766666666663	1.9000000000014552	trials	clockwise	central alternation	
+18353.333333333332	1.6583333333328483	trials	clockwise	central alternation	
+18356.60833333333	1.5166666666664241	trials	clockwise	central alternation	
+18370.766666666663	1.5333333333364862	trials	clockwise	central alternation	
+18375.783333333333	1.6833333333306655	trials	clockwise	central alternation	
+18380.374999999996	1.6916666666693345	trials	clockwise	central alternation	
+18391.00833333333	1.5499999999992724	trials	clockwise	central alternation	
+18394.024999999998	1.5499999999992724	trials	clockwise	central alternation	
+18404.333333333332	1.5166666666664241	trials	clockwise	central alternation	
+18413.824999999997	1.3500000000021828	trials	clockwise	central alternation	
+18418.066666666666	1.625	trials	clockwise	central alternation	
+18429.80833333333	1.7250000000021828	trials	clockwise	central alternation	
+18433.566666666666	1.5749999999970896	trials	clockwise	central alternation	
+18437.699999999997	1.5250000000014552	trials	clockwise	central alternation	
+18441.941666666666	1.4333333333306655	trials	clockwise	central alternation	
+18445.949999999997	1.5916666666671517	trials	clockwise	central alternation	
+18457.158333333333	1.4166666666642413	trials	clockwise	central alternation	
+18476.908333333333	1.3333333333321207	trials	clockwise	central alternation	
+18480.541666666664	1.6083333333335759	trials	clockwise	central alternation	
+18484.149999999998	1.625	trials	clockwise	central alternation	
+18501.899999999998	1.383333333335031	trials	clockwise	central alternation	
+18515.749999999996	1.625	trials	clockwise	central alternation	
+18526.48333333333	1.4666666666671517	trials	clockwise	central alternation	
+18535.25833333333	1.5916666666671517	trials	clockwise	central alternation	
+18540.041666666664	1.375	trials	clockwise	central alternation	
+18570.441666666666	1.4583333333321207	trials	clockwise	central alternation	
+18574.25833333333	1.5833333333321207	trials	clockwise	central alternation	
+18578.116666666665	1.375	trials	clockwise	central alternation	
+18584.399999999998	1.625	trials	clockwise	central alternation	
+18588.38333333333	1.383333333331393	trials	clockwise	central alternation	
+18596.366666666665	1.5166666666664241	trials	clockwise	central alternation	
+18607.158333333333	1.2749999999978172	trials	clockwise	central alternation	
+18611.55	1.6499999999978172	trials	clockwise	central alternation	
+18615.699999999997	1.4833333333335759	trials	clockwise	central alternation	
+18627.98333333333	1.5416666666678793	trials	clockwise	central alternation	
+18631.43333333333	1.5416666666678793	trials	clockwise	central alternation	
+18636.816666666666	1.241666666664969	trials	clockwise	central alternation	
+18638.05833333333	17812.37366666667	epochs			
+19251.0	10.0	sleep_states			Non-REM
+19337.0	11.0	sleep_states			Non-REM
+19349.0	245.0	sleep_states			Awake
+19595.0	11.0	sleep_states			Non-REM
+19607.0	239.0	sleep_states			Awake
+19847.0	15.0	sleep_states			Non-REM
+19873.0	12.0	sleep_states			Non-REM
+19982.0	10.0	sleep_states			Non-REM
+20078.0	16.0	sleep_states			Non-REM
+20160.0	34.0	sleep_states			Non-REM
+20205.0	19.0	sleep_states			Non-REM
+20225.0	160.0	sleep_states			Awake
+20386.0	8.0	sleep_states			Non-REM
+20438.0	47.0	sleep_states			Non-REM
+20532.0	8.0	sleep_states			Non-REM
+20560.0	29.0	sleep_states			Non-REM
+20622.0	73.0	sleep_states			Non-REM
+20707.0	695.0	sleep_states			Non-REM
+21403.0	16.0	sleep_states			REM
+21429.0	11.0	sleep_states			Non-REM
+21453.0	73.0	sleep_states			Non-REM
+21535.0	314.0	sleep_states			Non-REM
+21850.0	11.0	sleep_states			REM
+21862.0	48.0	sleep_states			Non-REM
+21939.0	58.0	sleep_states			Non-REM
+22017.0	366.0	sleep_states			Non-REM
+22406.0	45.0	sleep_states			Non-REM
+22461.0	123.0	sleep_states			Non-REM
+22622.0	136.0	sleep_states			Non-REM
+22759.0	80.0	sleep_states			REM
+22840.0	102.0	sleep_states			Awake
+22943.0	120.0	sleep_states			Non-REM
+23097.0	7.0	sleep_states			Non-REM
+23105.0	789.0	sleep_states			Awake
+23895.0	44.0	sleep_states			Non-REM
+23966.0	321.0	sleep_states			Non-REM
+24303.0	220.0	sleep_states			Non-REM
+24541.0	66.0	sleep_states			Non-REM
+24620.0	85.0	sleep_states			Non-REM
+24727.0	100.0	sleep_states			Non-REM
+24841.0	92.0	sleep_states			Non-REM
+24934.0	10.0	sleep_states			REM
+24945.0	284.0	sleep_states			Non-REM
+25241.0	9.0	sleep_states			Non-REM
+25259.0	56.0	sleep_states			Non-REM
+25316.0	490.0	sleep_states			Awake
+25807.0	102.0	sleep_states			Non-REM
+25942.0	25.0	sleep_states			Non-REM
+25968.0	354.0	sleep_states			Awake
+26323.0	7.0	sleep_states			Non-REM
+26331.0	196.0	sleep_states			Awake
+26528.0	17.0	sleep_states			Non-REM
+26554.0	51.0	sleep_states			Non-REM
+26667.0	14.0	sleep_states			Non-REM
+26690.0	138.0	sleep_states			Non-REM
+26861.0	113.0	sleep_states			Non-REM
+26994.0	15.0	sleep_states			Non-REM
+27023.0	153.0	sleep_states			Non-REM
+27190.0	46.0	sleep_states			Non-REM
+27257.0	102.0	sleep_states			Non-REM
+27360.0	92.0	sleep_states			REM
+27523.0	17.0	sleep_states			Non-REM
+27550.0	49.0	sleep_states			Non-REM
+27643.0	57.0	sleep_states			Non-REM
+27738.0	107.0	sleep_states			Non-REM
+27868.0	111.0	sleep_states			Non-REM
+27980.0	7.0	sleep_states			REM
+27998.0	106.0	sleep_states			Non-REM
+28119.0	26.0	sleep_states			Non-REM
+28146.0	9.0	sleep_states			REM
+28156.0	50.0	sleep_states			Non-REM
+28219.0	71.0	sleep_states			Non-REM
+28291.0	13.0	sleep_states			REM
+28322.0	106.0	sleep_states			Non-REM
+28446.0	30.0	sleep_states			Non-REM
+28521.0	51.0	sleep_states			Non-REM
+28573.0	8.0	sleep_states			REM
+28597.0	51.0	sleep_states			Non-REM
+28710.0	21.0	sleep_states			Non-REM
+28796.0	21.0	sleep_states			Non-REM
+28850.0	17.0	sleep_states			Non-REM
+28877.0	9.0	sleep_states			Non-REM
+28901.0	62.0	sleep_states			Non-REM
+28976.0	36.0	sleep_states			Non-REM
+29025.0	33.0	sleep_states			Non-REM
+29067.0	36.0	sleep_states			Non-REM
+29115.0	46.0	sleep_states			Non-REM
+29222.0	37.0	sleep_states			Non-REM
+29260.0	1004.0	sleep_states			Awake
+30265.0	34.0	sleep_states			Non-REM
+30328.0	8.0	sleep_states			Non-REM
+30345.0	8.0	sleep_states			Non-REM
+30366.0	11.0	sleep_states			Non-REM
+30378.0	606.0	sleep_states			Awake
+30985.0	8.0	sleep_states			Non-REM
+30994.0	337.0	sleep_states			Awake
+31332.0	117.0	sleep_states			Non-REM
+31450.0	243.0	sleep_states			Awake
+31694.0	7.0	sleep_states			Non-REM
+31803.0	177.0	sleep_states			Non-REM
+31990.0	328.0	sleep_states			Non-REM
+32329.0	100.0	sleep_states			Non-REM
+32461.0	80.0	sleep_states			Non-REM
+32542.0	108.0	sleep_states			Awake
+32651.0	63.0	sleep_states			Non-REM
+32724.0	58.0	sleep_states			Non-REM
+32816.0	26.0	sleep_states			Non-REM
+32914.0	19.0	sleep_states			Non-REM
+32934.0	1097.0	sleep_states			Awake
+34032.0	25.0	sleep_states			Non-REM
+34074.0	12.0	sleep_states			Non-REM
+34119.0	9.0	sleep_states			Non-REM
+34195.0	9.0	sleep_states			Non-REM
+34251.0	19.0	sleep_states			Non-REM
+34280.0	18.0	sleep_states			Non-REM
+34319.0	68.0	sleep_states			Non-REM
+34406.0	103.0	sleep_states			Non-REM
+34522.0	142.0	sleep_states			Non-REM
+34685.0	71.0	sleep_states			Non-REM
+34776.0	66.0	sleep_states			Non-REM
+34855.0	118.0	sleep_states			Non-REM
+34996.0	37.0	sleep_states			Non-REM
+35057.0	55.0	sleep_states			Non-REM
+35129.0	50.0	sleep_states			Non-REM
+35194.0	82.0	sleep_states			Non-REM
+35277.0	104.0	sleep_states			Awake
+35382.0	64.0	sleep_states			Non-REM
+35494.0	111.0	sleep_states			Non-REM
+35614.0	27.0	sleep_states			Non-REM
+35657.0	84.0	sleep_states			Non-REM
+35764.0	58.0	sleep_states			Non-REM
+35834.0	54.0	sleep_states			Non-REM
+35955.0	48.0	sleep_states			Non-REM
+36015.0	70.0	sleep_states			Non-REM
+36086.0	15.0	sleep_states			REM
+36102.0	44.0	sleep_states			Non-REM
+36161.0	45.0	sleep_states			Non-REM
+36207.0	24.0	sleep_states			REM
+36232.0	83.0	sleep_states			Non-REM
+36336.0	56.0	sleep_states			Non-REM
