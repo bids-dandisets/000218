@@ -2,7 +2,7 @@
 		License
 		/dataset_description.json - Field description: The license for the dataset.
 The use of license name abbreviations is RECOMMENDED for specifying a license
-(see [Licenses](https://bids-specification.readthedocs.io/en/stable/appendices/licenses.md)).
+(see [Licenses](SPEC_ROOT/appendices/licenses.md)).
 The corresponding full license text MAY be specified in an additional
 `LICENSE` file.
 
@@ -14,7 +14,7 @@ The corresponding full license text MAY be specified in an additional
 		SourceDatasets
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
 Valid keys in each object include `"URL"`, `"DOI"` (see
-[URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)), and
+[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
@@ -263,11 +263,11 @@ For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond t
 		83 more files with the same issue
 
 		CogAtlasID
-		/sub-DT1/ses-DT1+rLS+20150730+2736um/ecephys/sub-DT1_ses-DT1+rLS+20150730+2736um_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-DT1/ses-DT1+rLS+20150730+2736um/ecephys/sub-DT1_ses-DT1+rLS+20150730+2736um_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
 
-		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
 
@@ -275,10 +275,10 @@ Task term.
 		83 more files with the same issue
 
 		CogPOID
-		/sub-DT1/ses-DT1+rLS+20150730+2736um/ecephys/sub-DT1_ses-DT1+rLS+20150730+2736um_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-DT1/ses-DT1+rLS+20150730+2736um/ecephys/sub-DT1_ses-DT1+rLS+20150730+2736um_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
 
-		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
 
 
@@ -349,3 +349,4 @@ regardless of their type (for example, `2400`).
           805 Files, 2.45 MB                                        microephys           
           5 - Subjects 85 - Sessions                                                     
 
+	If you have any questions, please post on https://neurostars.org/tags/bids.
