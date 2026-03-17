@@ -5,11 +5,11 @@ The use of license name abbreviations is RECOMMENDED for specifying a license
 (see [Licenses](SPEC_ROOT/appendices/licenses.md)).
 The corresponding full license text MAY be specified in an additional
 `LICENSE` file.
-
+ - rules.dataset_metadata.dataset_description
 
 		GeneratedBy
 		/dataset_description.json - Field description: Used to specify provenance of the dataset.
-
+ - rules.dataset_metadata.dataset_description
 
 		SourceDatasets
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
@@ -18,7 +18,7 @@ Valid keys in each object include `"URL"`, `"DOI"` (see
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
-
+ - rules.dataset_metadata.dataset_description
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
 
@@ -28,22 +28,103 @@ will make DOI registration from dataset metadata impossible.
 
 		Authors
 		/dataset_description.json - Field description: List of individuals who contributed to the creation/curation of the dataset.
-
+ - rules.dataset_metadata.dataset_authors
 
 	Please visit https://neurostars.org/search?q=NO_AUTHORS for existing conversations about this issue.
 
 	[ERROR] JSON_KEY_REQUIRED A JSON flle is missing a key listed as required.
 		Name
 		/dataset_description.json - Field description: Name of the dataset.
-
+ - rules.dataset_metadata.dataset_description
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_REQUIRED for existing conversations about this issue.
 
 	[ERROR] NOT_INCLUDED Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a ".bidsignore" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder.
 		/sub-DT1/ses-DT1_rLS_20150729_2592um/
 		/sub-DT1/ses-DT1_rLS_20150723_1728um/
-
-		83 more files with the same issue
+		/sub-DT1/ses-DT1_rLS_20150729_2448um/
+		/sub-DT1/ses-DT1_rLS_20150730_2736um/
+		/sub-DT1/ses-DT1_rLS_20150727_2232um/
+		/sub-DT1/ses-DT1_rLS_20150728_2304um/
+		/sub-DT1/ses-DT1_rLS_20150724_1800um/
+		/sub-DT1/ses-DT1_rLS_20150724_1872um/
+		/sub-DT1/ses-DT1_rLS_20150727_2088um/
+		/sub-DT1/ses-DT1_rLS_20150723_1584um/
+		/sub-DT1/ses-DT1_rLS_20150726_2016um/
+		/sub-DT1/ses-DT1_rLS_20150725_1944um/
+		/sub-DT5/ses-20161007_720um_720um_merge/
+		/sub-DT5/ses-20161101_2088um_2232um_merge/
+		/sub-DT5/ses-20161019_1624um_2340um_161019_095311/
+		/sub-DT5/ses-20161015_1368um_1476um_merge/
+		/sub-DT5/ses-20161025_1944um_2232um_merge/
+		/sub-DT5/ses-20161011_972um_1224um_merge/
+		/sub-DT5/ses-20161026_1944um_2232um_merge/
+		/sub-DT5/ses-20161027_1944um_2232um_161027_194125/
+		/sub-DT5/ses-20161021_1840um_2412um_merge/
+		/sub-DT5/ses-20161017_1440um_2016um_merge/
+		/sub-DT5/ses-20161023_1872um_2448um_161023_123504/
+		/sub-DT5/ses-20161018_1552um_2304um_merge/
+		/sub-DT5/ses-20161016_1368um_1476um_merge/
+		/sub-DT5/ses-20161020_1768um_2376um_161020_102642/
+		/sub-DT5/ses-20161014_1296um_1476um_merge/
+		/sub-DT5/ses-20161030_2052um_2232um_161030_111142/
+		/sub-DT5/ses-20161031_2088um_2232um_161031_104001/
+		/sub-DT5/ses-20161029_2016um_2232um_merge/
+		/sub-DT5/ses-20161104_2124um_2232um_merge/
+		/sub-DT5/ses-20161008_792um_864um_merge/
+		/sub-DT9/ses-20170430_0um_0um_merge/
+		/sub-DT9/ses-20170508_468um_36um_170508_102251/
+		/sub-DT9/ses-20170502_288um_0um_merge/
+		/sub-DT9/ses-20170501_216um_0um_170501_112210/
+		/sub-DT9/ses-20170526_1116um_1000um_merge/
+		/sub-DT9/ses-20170509_468um_36um_170509_103451/
+		/sub-DT9/ses-20170504_396um_0um_merge/
+		/sub-DT9/ses-20170507_468um_36um_merge/
+		/sub-DT9/ses-20170428_0um_0um_merge/
+		/sub-DT9/ses-20170506_468um_36um_170506_111835/
+		/sub-DT9/ses-20170519_864um_900um_merge/
+		/sub-DT9/ses-20170525_900um_936um_170525_150124/
+		/sub-DT9/ses-20170429_0um_0um_merge/
+		/sub-DT9/ses-20170518_828um_864um_merge/
+		/sub-DT9/ses-20170505_396um_0um_merge/
+		/sub-DT9/ses-20170521_900um_936um_170521_125602/
+		/sub-DT8/ses-20170214_216um_1944um_170214_102804/
+		/sub-DT8/ses-20170218_216um_1944um_170218_114724/
+		/sub-DT8/ses-20170221_324um_1944um_170221_101929/
+		/sub-DT8/ses-20170308_612um_2088um_merge/
+		/sub-DT8/ses-20170306_468um_2088um_170306_113628/
+		/sub-DT8/ses-20170207_144um_1944um_merge/
+		/sub-DT8/ses-20170206_72um_1872um_merge/
+		/sub-DT8/ses-20170216_216um_1944um_merge/
+		/sub-DT8/ses-20170217_216um_1944um_merge/
+		/sub-DT8/ses-20170305_468um_2088um_170305_135233/
+		/sub-DT8/ses-20170202_72um_576um_170202_092033/
+		/sub-DT8/ses-20170211_144um_1944um_merge/
+		/sub-DT8/ses-20170125_0um_0um_merge/
+		/sub-DT8/ses-20170215_216um_1944um_170215_140739/
+		/sub-DT8/ses-20170128_0um_72um_merge/
+		/sub-DT8/ses-20170224_324um_2088um_170224_101710/
+		/sub-DT8/ses-20170201_72um_432um_merge/
+		/sub-DT7/ses-20170412_1440um_1170um_170412_103153/
+		/sub-DT7/ses-20170316_288um_0um_merge/
+		/sub-DT7/ses-20170318_288um_0um_170318_115923/
+		/sub-DT7/ses-20170324_576um_144um_170324_123932/
+		/sub-DT7/ses-20170406_864um_1152um_merge/
+		/sub-DT7/ses-20170319_288um_0um_170319_123708/
+		/sub-DT7/ses-20170408_936um_1152um_merge/
+		/sub-DT7/ses-20170410_1152um_1152um_170410_102443/
+		/sub-DT7/ses-20170317_288um_0um_merge/
+		/sub-DT7/ses-20170409_1152um_1152um_170409_115803/
+		/sub-DT7/ses-20170325_576um_360um_170325_125511/
+		/sub-DT7/ses-20170320_432um_0um_merge/
+		/sub-DT7/ses-20170315_288um_0um_170315_191240/
+		/sub-DT7/ses-20170321_216um_0um_170321_120259/
+		/sub-DT7/ses-20170314_72um_0um_170314_181434/
+		/sub-DT7/ses-20170315_216um_0um_merge/
+		/sub-DT7/ses-20170401_864um_936um_merge/
+		/sub-DT7/ses-20170327_864um_360um_170327_115803/
+		/sub-DT7/ses-20170405_864um_1152um_170405_102118/
+		/sub-DT7/ses-20170407_936um_1152um_merge/
 
 	Please visit https://neurostars.org/search?q=NOT_INCLUDED for existing conversations about this issue.
 
