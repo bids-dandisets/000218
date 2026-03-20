@@ -1,4 +1,4 @@
 probe_name	type	description
 Cambridge prob (1 x 64)	n/a	Silicon probe from Cambridge Neurotech. Electrophysiological data were acquired using an Intan RHD2000 system (Intan Technologies LLC) digitized with20 kHz rate.
-Neuronexus probe (5 x 12)	n/a	A 5 (shanks) x 12 (electrodes) silicon probe from Neuronexus. Electrophysiological data were acquired using an Intan RHD2000 system (Intan Technologies LLC) digitized with 20 kHz rate.
 Neuronexus probe (4 x 1)	n/a	according to author thse are reference sites a few millimeters dorsal from the restrecorded from an older neuronexus probe
+Neuronexus probe (5 x 12)	n/a	A 5 (shanks) x 12 (electrodes) silicon probe from Neuronexus. Electrophysiological data were acquired using an Intan RHD2000 system (Intan Technologies LLC) digitized with 20 kHz rate.
