@@ -1,137 +1,94 @@
-	[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.
-		License
-		/dataset_description.json - Field description: The license for the dataset.
-The use of license name abbreviations is RECOMMENDED for specifying a license
-(see [Licenses](SPEC_ROOT/appendices/licenses.md)).
-The corresponding full license text MAY be specified in an additional
-`LICENSE` file.
-
-
-		GeneratedBy
-		/dataset_description.json - Field description: Used to specify provenance of the dataset.
-
-
-		SourceDatasets
+	[33m[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.[39m
+		[33mSourceDatasets[39m
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
-Valid keys in each object include `"URL"`, `"DOI"` (see
-[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
-`"Version"` with
-[string](https://www.w3schools.com/js/js_json_datatypes.asp)
+Valid keys in each object include [36m"URL"[39m, [36m"DOI"[39m (see
+]8;;https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicatorURI]8;;), and
+[36m"Version"[39m with
+]8;;https://www.w3schools.com/js/js_json_datatypes.aspstring]8;;
 values.
 
+[36m	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
-	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
-
-	[WARNING] NO_AUTHORS The Authors field of dataset_description.json should contain an array of fields -
-with one author per field. This was triggered because there are no authors, which
-will make DOI registration from dataset metadata impossible.
-
-		Authors
-		/dataset_description.json - Field description: List of individuals who contributed to the creation/curation of the dataset.
-
-
-	Please visit https://neurostars.org/search?q=NO_AUTHORS for existing conversations about this issue.
-
-	[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.
-		Manufacturer
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
-
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
-
+	[33m[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.[39m
+		[33msampling_frequency[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_channels.json - Format "string" must be number
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_channels.json - Format "string" must be number
 
 		83 more files with the same issue
 
-		RecordingDuration
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
-
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
-
-
-		69 more files with the same issue
-
-		RecordingType
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
-`"epoched"`, where `"epoched"` is limited to time windows about events of
-interest (for example, stimulus presentations or subject responses).
-
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
-`"epoched"`, where `"epoched"` is limited to time windows about events of
-interest (for example, stimulus presentations or subject responses).
-
+		[33mx[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_electrodes.json - Format "string" must be number
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_electrodes.json - Format "string" must be number
 
 		83 more files with the same issue
 
-		BodyPart
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+		[33my[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_electrodes.json - Format "string" must be number
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_electrodes.json - Format "string" must be number
 
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+		83 more files with the same issue
 
+		[33mimpedance[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_electrodes.json - Format "string" must be number
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_electrodes.json - Format "string" must be number
+
+		83 more files with the same issue
+
+		[33mgain[39m
+		/sub-DT5/ses-20161007+720um+720um+merge/ecephys/sub-DT5_ses-20161007+720um+720um+merge_channels.json - Format "string" must be number
+		/sub-DT5/ses-20161008+792um+864um+merge/ecephys/sub-DT5_ses-20161008+792um+864um+merge_channels.json - Format "string" must be number
 
 		69 more files with the same issue
 
-		BodyPartDetails
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+[36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
 
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+	[33m[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.[39m
+		[33mManufacturer[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
 
+		83 more files with the same issue
+
+		[33mRecordingType[39m
+		/sub-DT1/ses-DT1+rLS+20150723+1584um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1584um_ecephys.nwb - Field description: Defines whether the recording is [36m"continuous"[39m, [36m"discontinuous"[39m, or
+[36m"epoched"[39m, where [36m"epoched"[39m is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+		/sub-DT1/ses-DT1+rLS+20150723+1728um/ecephys/sub-DT1_ses-DT1+rLS+20150723+1728um_ecephys.nwb - Field description: Defines whether the recording is [36m"continuous"[39m, [36m"discontinuous"[39m, or
+[36m"epoched"[39m, where [36m"epoched"[39m is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+
+		83 more files with the same issue
+
+		[33mRecordingDuration[39m
+		/sub-DT5/ses-20161007+720um+720um+merge/ecephys/sub-DT5_ses-20161007+720um+720um+merge_ecephys.nwb - Field description: Length of the recording in seconds (for example, [36m3600[39m).
+		/sub-DT5/ses-20161008+792um+864um+merge/ecephys/sub-DT5_ses-20161008+792um+864um+merge_ecephys.nwb - Field description: Length of the recording in seconds (for example, [36m3600[39m).
 
 		69 more files with the same issue
 
-		StimulusPresentation
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_events.tsv - Field description: Object containing key-value pairs related to the software used to present
-the stimuli during the experiment.
+		[33mBodyPart[39m
+		/sub-DT5/ses-20161007+720um+720um+merge/ecephys/sub-DT5_ses-20161007+720um+720um+merge_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+		/sub-DT5/ses-20161008+792um+864um+merge/ecephys/sub-DT5_ses-20161008+792um+864um+merge_ecephys.nwb - Field description: Body part of the organ / body region scanned.
 
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_events.tsv - Field description: Object containing key-value pairs related to the software used to present
-the stimuli during the experiment.
+		69 more files with the same issue
 
+		[33mBodyPartDetails[39m
+		/sub-DT5/ses-20161007+720um+720um+merge/ecephys/sub-DT5_ses-20161007+720um+720um+merge_ecephys.nwb - Field description: Additional details about body part or location (for example: [36m"corpus callosum"[39m).
+		/sub-DT5/ses-20161008+792um+864um+merge/ecephys/sub-DT5_ses-20161008+792um+864um+merge_ecephys.nwb - Field description: Additional details about body part or location (for example: [36m"corpus callosum"[39m).
+
+		69 more files with the same issue
+
+		[33mStimulusPresentation[39m
+		/sub-DT5/ses-20161011+972um+1224um+merge/ecephys/sub-DT5_ses-20161011+972um+1224um+merge_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+		/sub-DT5/ses-20161014+1296um+1476um+merge/ecephys/sub-DT5_ses-20161014+1296um+1476um+merge_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
 
 		60 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
-
-	[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.
-		x
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_electrodes.json - Format "string" must be number
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_electrodes.json - Format "string" must be number
-
-		83 more files with the same issue
-
-		y
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_electrodes.json - Format "string" must be number
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_electrodes.json - Format "string" must be number
-
-		83 more files with the same issue
-
-		impedance
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_electrodes.json - Format "string" must be number
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_electrodes.json - Format "string" must be number
-
-		83 more files with the same issue
-
-		sampling_frequency
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_channels.json - Format "string" must be number
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_channels.json - Format "string" must be number
-
-		83 more files with the same issue
-
-		gain
-		/sub-DT8/ses-20170308+612um+2088um+merge/ecephys/sub-DT8_ses-20170308+612um+2088um+merge_channels.json - Format "string" must be number
-		/sub-DT8/ses-20170125+0um+0um+merge/ecephys/sub-DT8_ses-20170125+0um+0um+merge_channels.json - Format "string" must be number
-
-		69 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.
-
-	[ERROR] JSON_KEY_REQUIRED A JSON flle is missing a key listed as required.
-		Name
-		/dataset_description.json - Field description: Name of the dataset.
+[36m	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
 
-	Please visit https://neurostars.org/search?q=JSON_KEY_REQUIRED for existing conversations about this issue.
-
-
-          Summary:                          Available Tasks:        Available Modalities:
+          [35mSummary:[39m                          [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
           805 Files, 2.46 MB                                        microephys           
           5 - Subjects 85 - Sessions                                                     
 
-	If you have any questions, please post on https://neurostars.org/tags/bids.
