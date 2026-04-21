@@ -1,0 +1,21 @@
+onset	duration	nwb_table	direction	trial_type
+0.0	1533.153775	epochs		
+1533.153775	1098.8509999999999	epochs		
+1533.153775	4.51644999999985	trials	counter-clockwise	central alternation
+1697.0548	5.39975000000004	trials	clockwise	central alternation
+1779.4344500000002	4.808124999999791	trials	clockwise	central alternation
+1795.0587500000001	4.89144999999985	trials	clockwise	central alternation
+1806.124925	6.491375000000062	trials	clockwise	central alternation
+1863.8973500000002	4.0998249999997824	trials	clockwise	central alternation
+2182.2915000000003	4.058149999999841	trials	clockwise	central alternation
+2252.330025	4.191499999999905	trials	clockwise	central alternation
+2305.835975	4.249824999999873	trials	clockwise	central alternation
+2335.068025	3.7331500000000233	trials	clockwise	central alternation
+2346.6758250000003	4.6914749999996275	trials	clockwise	central alternation
+2357.383675	4.1998249999996915	trials	counter-clockwise	central alternation
+2401.7817	4.066499999999905	trials	counter-clockwise	central alternation
+2468.728725	4.141475000000355	trials	counter-clockwise	central alternation
+2522.9013	4.416474999999991	trials	counter-clockwise	central alternation
+2595.1730749999997	5.116450000000441	trials	counter-clockwise	central alternation
+2626.53835	5.466425000000072	trials	counter-clockwise	central alternation
+2632.004775	20782.863224999997	epochs		

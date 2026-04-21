@@ -1,0 +1,35 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "label": {
+        "Description": "Sleep state."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "epochs": "The 'epochs' table in the NWB file.",
+            "sleep_states": "The 'sleep_states' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "epochs": "Time-block",
+            "sleep_states": "Time-interval"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    },
+    "sleep_states": {
+        "Description": "Sleep state of the animal."
+    }
+}

@@ -1,0 +1,554 @@
+onset	duration	nwb_table	direction	trial_type	label
+0.0	12089.583333333334	epochs			
+5.0	787.0	sleep_states			Awake
+793.0	11.0	sleep_states			Non-REM
+805.0	71.0	sleep_states			MA
+877.0	131.0	sleep_states			Non-REM
+1009.0	8.0	sleep_states			MA
+1018.0	61.0	sleep_states			Non-REM
+1080.0	34.0	sleep_states			MA
+1115.0	184.0	sleep_states			Non-REM
+1300.0	35.0	sleep_states			MA
+1336.0	19.0	sleep_states			Non-REM
+1356.0	18.0	sleep_states			MA
+1375.0	44.0	sleep_states			Non-REM
+1420.0	9.0	sleep_states			MA
+1430.0	96.0	sleep_states			Non-REM
+1527.0	8.0	sleep_states			MA
+1536.0	296.0	sleep_states			Non-REM
+1833.0	424.0	sleep_states			Awake
+2258.0	14.0	sleep_states			Non-REM
+2273.0	1159.0	sleep_states			Awake
+3433.0	7.0	sleep_states			Non-REM
+3441.0	9.0	sleep_states			MA
+3451.0	11.0	sleep_states			Non-REM
+3463.0	23.0	sleep_states			MA
+3487.0	31.0	sleep_states			Non-REM
+3519.0	13.0	sleep_states			MA
+3533.0	91.0	sleep_states			Non-REM
+3625.0	8.0	sleep_states			MA
+3634.0	140.0	sleep_states			Non-REM
+3775.0	16.0	sleep_states			MA
+3792.0	285.0	sleep_states			Non-REM
+4078.0	18.0	sleep_states			MA
+4097.0	113.0	sleep_states			Non-REM
+4221.0	87.0	sleep_states			REM
+4309.0	483.0	sleep_states			Non-REM
+4793.0	7.0	sleep_states			MA
+4801.0	14.0	sleep_states			Non-REM
+4816.0	52.0	sleep_states			MA
+4869.0	28.0	sleep_states			Non-REM
+4898.0	9.0	sleep_states			MA
+4908.0	12.0	sleep_states			Non-REM
+4921.0	11.0	sleep_states			MA
+4933.0	158.0	sleep_states			Non-REM
+5092.0	47.0	sleep_states			MA
+5140.0	162.0	sleep_states			Non-REM
+5303.0	11.0	sleep_states			MA
+5315.0	122.0	sleep_states			Non-REM
+5438.0	29.0	sleep_states			MA
+5468.0	67.0	sleep_states			Non-REM
+5536.0	11.0	sleep_states			REM
+5548.0	16.0	sleep_states			Non-REM
+5565.0	9.0	sleep_states			MA
+5575.0	157.0	sleep_states			Non-REM
+5733.0	11.0	sleep_states			REM
+5754.0	13.0	sleep_states			REM
+5768.0	12.0	sleep_states			MA
+5781.0	55.0	sleep_states			Non-REM
+5837.0	10.0	sleep_states			REM
+5848.0	13.0	sleep_states			MA
+5862.0	321.0	sleep_states			Non-REM
+6184.0	25.0	sleep_states			MA
+6210.0	102.0	sleep_states			Non-REM
+6313.0	109.0	sleep_states			REM
+6423.0	33.0	sleep_states			MA
+6457.0	32.0	sleep_states			Non-REM
+6490.0	7.0	sleep_states			MA
+6498.0	520.0	sleep_states			Non-REM
+7019.0	108.0	sleep_states			REM
+7128.0	33.0	sleep_states			MA
+7162.0	31.0	sleep_states			Non-REM
+7194.0	24.0	sleep_states			MA
+7219.0	11.0	sleep_states			Non-REM
+7231.0	45.0	sleep_states			MA
+7277.0	130.0	sleep_states			Non-REM
+7408.0	10.0	sleep_states			MA
+7419.0	143.0	sleep_states			Non-REM
+7563.0	11.0	sleep_states			REM
+7575.0	7.0	sleep_states			MA
+7583.0	30.0	sleep_states			Non-REM
+7614.0	19.0	sleep_states			REM
+7634.0	17.0	sleep_states			MA
+7652.0	136.0	sleep_states			Non-REM
+7789.0	19.0	sleep_states			REM
+7809.0	8.0	sleep_states			MA
+7818.0	380.0	sleep_states			Non-REM
+8199.0	108.0	sleep_states			REM
+8308.0	53.0	sleep_states			MA
+8362.0	50.0	sleep_states			Non-REM
+8413.0	94.0	sleep_states			MA
+8508.0	41.0	sleep_states			Non-REM
+8550.0	28.0	sleep_states			MA
+8579.0	136.0	sleep_states			Non-REM
+8716.0	69.0	sleep_states			MA
+8786.0	106.0	sleep_states			Non-REM
+8893.0	36.0	sleep_states			MA
+8930.0	120.0	sleep_states			Non-REM
+9051.0	9.0	sleep_states			REM
+9061.0	19.0	sleep_states			MA
+9081.0	151.0	sleep_states			Non-REM
+9233.0	40.0	sleep_states			MA
+9274.0	98.0	sleep_states			Non-REM
+9373.0	46.0	sleep_states			MA
+9420.0	113.0	sleep_states			Non-REM
+9534.0	20.0	sleep_states			MA
+9555.0	131.0	sleep_states			Non-REM
+9687.0	9.0	sleep_states			MA
+9697.0	139.0	sleep_states			Non-REM
+9837.0	21.0	sleep_states			REM
+9867.0	39.0	sleep_states			REM
+9907.0	43.0	sleep_states			MA
+9951.0	168.0	sleep_states			Non-REM
+10120.0	9.0	sleep_states			MA
+10130.0	123.0	sleep_states			Non-REM
+10254.0	9.0	sleep_states			MA
+10264.0	156.0	sleep_states			Non-REM
+10421.0	523.0	sleep_states			Awake
+10945.0	13.0	sleep_states			Non-REM
+10959.0	16.0	sleep_states			MA
+10976.0	33.0	sleep_states			Non-REM
+11010.0	8.0	sleep_states			MA
+11019.0	9.0	sleep_states			Non-REM
+11029.0	95.0	sleep_states			MA
+11125.0	12.0	sleep_states			Non-REM
+11138.0	23.0	sleep_states			MA
+11162.0	36.0	sleep_states			Non-REM
+11199.0	9.0	sleep_states			MA
+11209.0	84.0	sleep_states			Non-REM
+11294.0	54.0	sleep_states			MA
+11349.0	83.0	sleep_states			Non-REM
+11433.0	16.0	sleep_states			MA
+11450.0	83.0	sleep_states			Non-REM
+11534.0	23.0	sleep_states			MA
+11558.0	60.0	sleep_states			Non-REM
+11619.0	8.0	sleep_states			MA
+11628.0	20.0	sleep_states			Non-REM
+11649.0	19.0	sleep_states			REM
+11669.0	15.0	sleep_states			MA
+11685.0	101.0	sleep_states			Non-REM
+11787.0	12.0	sleep_states			MA
+11800.0	38.0	sleep_states			Non-REM
+11839.0	29.0	sleep_states			MA
+11869.0	42.0	sleep_states			Non-REM
+11912.0	105.0	sleep_states			Awake
+12018.0	16.0	sleep_states			Non-REM
+12035.0	110.0	sleep_states			Awake
+12089.583333333334	2961.783333333331	epochs			
+12089.583333333334	4.199999999998909	trials	counter-clockwise	wheel alternation	
+12146.0	10.0	sleep_states			Non-REM
+12157.0	1986.0	sleep_states			Awake
+12218.341666666667	3.241666666666788	trials	clockwise	wheel alternation	
+12279.175	3.266666666666424	trials	clockwise	wheel alternation	
+12288.241666666667	3.0416666666660603	trials	clockwise	wheel alternation	
+12297.191666666666	3.5916666666671517	trials	clockwise	wheel alternation	
+12301.908333333333	3.2000000000007276	trials	clockwise	wheel alternation	
+12320.408333333333	4.466666666667152	trials	clockwise	wheel alternation	
+12335.041666666666	3.4250000000010914	trials	clockwise	wheel alternation	
+12335.25	3.141666666666424	trials	clockwise	wheel alternation	
+12348.391666666666	3.741666666666788	trials	clockwise	wheel alternation	
+12354.575	3.608333333331757	trials	clockwise	wheel alternation	
+12363.916666666666	3.1666666666678793	trials	clockwise	wheel alternation	
+12364.016666666666	2.875	trials	clockwise	wheel alternation	
+12371.483333333334	3.483333333333576	trials	counter-clockwise	central alternation	
+12377.783333333333	3.7083333333339397	trials	counter-clockwise	central alternation	
+12387.675	3.2000000000007276	trials	counter-clockwise	central alternation	
+12398.966666666667	3.349999999998545	trials	counter-clockwise	central alternation	
+12404.108333333334	3.358333333333576	trials	counter-clockwise	central alternation	
+12415.783333333333	3.5833333333339397	trials	counter-clockwise	central alternation	
+12423.691666666666	3.141666666668243	trials	counter-clockwise	central alternation	
+12432.416666666666	3.3000000000010914	trials	counter-clockwise	central alternation	
+12463.825	3.266666666666424	trials	counter-clockwise	central alternation	
+12467.983333333334	3.491666666666788	trials	counter-clockwise	central alternation	
+12467.983333333334	3.491666666666788	trials	counter-clockwise	central alternation	
+12477.216666666667	2.991666666666788	trials	counter-clockwise	central alternation	
+12486.025	3.6750000000010914	trials	counter-clockwise	central alternation	
+12508.625	3.5666666666656965	trials	counter-clockwise	central alternation	
+12516.183333333332	3.0750000000007276	trials	counter-clockwise	central alternation	
+12523.0	4.5	trials	counter-clockwise	central alternation	
+12534.591666666667	2.9416666666656965	trials	counter-clockwise	central alternation	
+12551.325	3.3166666666656965	trials	counter-clockwise	central alternation	
+12580.3	3.5916666666671517	trials	counter-clockwise	central alternation	
+12596.208333333334	3.1833333333324845	trials	counter-clockwise	central alternation	
+12600.491666666667	4.033333333332848	trials	counter-clockwise	central alternation	
+12614.308333333332	3.5583333333343035	trials	counter-clockwise	central alternation	
+12621.666666666666	4.4333333333343035	trials	counter-clockwise	central alternation	
+12628.991666666667	3.5749999999989086	trials	counter-clockwise	central alternation	
+12645.633333333333	3.0416666666660603	trials	counter-clockwise	central alternation	
+12645.666666666666	3.0416666666678793	trials	counter-clockwise	central alternation	
+12658.35	3.6583333333328483	trials	counter-clockwise	central alternation	
+12671.591666666667	3.233333333333576	trials	counter-clockwise	central alternation	
+12678.575	3.2999999999992724	trials	counter-clockwise	central alternation	
+12688.125	3.3166666666656965	trials	counter-clockwise	central alternation	
+12700.466666666667	2.733333333333576	trials	counter-clockwise	central alternation	
+12709.941666666666	3.758333333335031	trials	counter-clockwise	central alternation	
+12717.25	3.4166666666660603	trials	counter-clockwise	central alternation	
+12733.0	4.6916666666656965	trials	counter-clockwise	central alternation	
+12740.7	3.358333333331757	trials	counter-clockwise	central alternation	
+12745.466666666667	3.849999999998545	trials	counter-clockwise	central alternation	
+12753.225	4.608333333333576	trials	counter-clockwise	central alternation	
+12762.625	4.024999999999636	trials	counter-clockwise	central alternation	
+12771.125	3.4666666666671517	trials	counter-clockwise	central alternation	
+12776.033333333333	4.008333333333212	trials	counter-clockwise	central alternation	
+12776.158333333333	3.883333333333212	trials	counter-clockwise	central alternation	
+12785.441666666666	3.875	trials	counter-clockwise	central alternation	
+12796.483333333334	3.4083333333328483	trials	counter-clockwise	central alternation	
+12807.85	3.1583333333328483	trials	counter-clockwise	central alternation	
+12820.375	4.258333333333212	trials	counter-clockwise	central alternation	
+12826.0	3.375	trials	counter-clockwise	central alternation	
+12838.275	3.649999999999636	trials	counter-clockwise	central alternation	
+12849.325	2.858333333331757	trials	counter-clockwise	central alternation	
+12857.466666666667	5.449999999998909	trials	counter-clockwise	central alternation	
+12863.666666666666	3.3416666666671517	trials	counter-clockwise	central alternation	
+12915.7	3.649999999999636	trials	counter-clockwise	central alternation	
+12948.891666666666	3.524999999999636	trials	counter-clockwise	central alternation	
+12961.566666666666	3.225000000000364	trials	counter-clockwise	central alternation	
+12968.091666666667	3.133333333333212	trials	counter-clockwise	central alternation	
+12974.516666666666	3.491666666666788	trials	counter-clockwise	central alternation	
+12982.408333333333	2.8333333333339397	trials	counter-clockwise	central alternation	
+13006.116666666667	3.5499999999992724	trials	counter-clockwise	central alternation	
+13012.966666666667	3.4583333333321207	trials	counter-clockwise	central alternation	
+13022.908333333333	3.516666666666424	trials	counter-clockwise	central alternation	
+13032.866666666667	3.149999999999636	trials	clockwise	central alternation	
+13036.658333333333	3.7916666666678793	trials	clockwise	central alternation	
+13044.983333333334	3.4499999999989086	trials	clockwise	central alternation	
+13052.05	3.3333333333339397	trials	clockwise	central alternation	
+13058.816666666666	4.108333333333576	trials	clockwise	central alternation	
+13065.566666666666	3.3333333333339397	trials	clockwise	central alternation	
+13074.308333333332	3.4666666666671517	trials	clockwise	central alternation	
+13079.883333333333	3.641666666666424	trials	clockwise	central alternation	
+13087.1	4.108333333333576	trials	clockwise	central alternation	
+13099.666666666666	4.466666666667152	trials	clockwise	central alternation	
+13099.975	4.158333333332848	trials	clockwise	central alternation	
+13107.291666666666	3.141666666666424	trials	clockwise	central alternation	
+13112.225	3.974999999998545	trials	clockwise	central alternation	
+13121.75	3.625	trials	clockwise	central alternation	
+13122.033333333333	3.4083333333328483	trials	clockwise	central alternation	
+13131.3	3.475000000000364	trials	clockwise	central alternation	
+13139.916666666666	3.5583333333343035	trials	clockwise	central alternation	
+13145.125	3.516666666666424	trials	clockwise	central alternation	
+13151.758333333333	3.850000000000364	trials	clockwise	central alternation	
+13158.925	3.3083333333343035	trials	clockwise	central alternation	
+13177.15	3.7999999999992724	trials	clockwise	central alternation	
+13183.108333333334	3.508333333333212	trials	clockwise	central alternation	
+13190.175	3.524999999999636	trials	clockwise	central alternation	
+13197.708333333334	3.5749999999989086	trials	clockwise	central alternation	
+13203.808333333332	4.075000000000728	trials	clockwise	central alternation	
+13295.708333333332	3.850000000000364	trials	clockwise	central alternation	
+13312.083333333332	3.5583333333343035	trials	clockwise	central alternation	
+13323.474999999999	3.4416666666675155	trials	clockwise	central alternation	
+13405.666666666666	3.508333333333212	trials	clockwise	central alternation	
+13413.366666666665	2.858333333333576	trials	clockwise	central alternation	
+13420.866666666665	3.3333333333339397	trials	clockwise	central alternation	
+13444.633333333333	3.2999999999992724	trials	counter-clockwise	central alternation	
+13453.016666666666	3.4666666666653327	trials	counter-clockwise	central alternation	
+13457.633333333333	3.766666666666424	trials	counter-clockwise	central alternation	
+13465.308333333332	4.4333333333324845	trials	counter-clockwise	central alternation	
+13495.741666666665	2.9083333333346673	trials	counter-clockwise	central alternation	
+13503.116666666665	4.200000000000728	trials	counter-clockwise	central alternation	
+13508.0	3.141666666666424	trials	counter-clockwise	central alternation	
+13513.8	3.4666666666671517	trials	counter-clockwise	central alternation	
+13524.366666666665	3.0666666666675155	trials	counter-clockwise	central alternation	
+13533.191666666666	3.4583333333339397	trials	counter-clockwise	central alternation	
+13542.9	3.0916666666653327	trials	counter-clockwise	central alternation	
+13553.474999999999	2.991666666666788	trials	counter-clockwise	central alternation	
+13566.833333333332	4.0583333333343035	trials	counter-clockwise	central alternation	
+13576.291666666666	4.466666666667152	trials	counter-clockwise	central alternation	
+13584.383333333333	3.733333333331757	trials	counter-clockwise	central alternation	
+13595.683333333332	3.3333333333339397	trials	counter-clockwise	central alternation	
+13602.541666666666	4.850000000000364	trials	counter-clockwise	central alternation	
+13611.516666666666	3.8249999999989086	trials	counter-clockwise	central alternation	
+13619.541666666666	3.524999999999636	trials	counter-clockwise	central alternation	
+13626.991666666665	3.5750000000007276	trials	counter-clockwise	central alternation	
+13636.708333333332	3.608333333333576	trials	counter-clockwise	central alternation	
+13665.116666666665	3.9416666666675155	trials	counter-clockwise	central alternation	
+13672.616666666665	3.383333333335031	trials	counter-clockwise	central alternation	
+13685.808333333332	3.6749999999992724	trials	counter-clockwise	central alternation	
+13696.933333333332	3.858333333333576	trials	counter-clockwise	central alternation	
+13710.591666666665	3.3333333333339397	trials	counter-clockwise	central alternation	
+13715.433333333332	3.4083333333328483	trials	counter-clockwise	central alternation	
+13722.15	3.5666666666656965	trials	counter-clockwise	central alternation	
+13727.766666666666	4.5666666666656965	trials	counter-clockwise	central alternation	
+13735.741666666665	3.1583333333346673	trials	counter-clockwise	central alternation	
+13743.491666666665	3.5	trials	counter-clockwise	central alternation	
+13753.949999999999	3.4500000000007276	trials	counter-clockwise	central alternation	
+13761.849999999999	3.6666666666678793	trials	counter-clockwise	central alternation	
+13767.699999999999	3.2166666666671517	trials	counter-clockwise	central alternation	
+13783.8	3.016666666666424	trials	counter-clockwise	central alternation	
+13794.699999999999	3.6916666666675155	trials	counter-clockwise	central alternation	
+13812.608333333332	3.4500000000007276	trials	counter-clockwise	central alternation	
+13818.5	3.9333333333324845	trials	counter-clockwise	central alternation	
+13826.833333333332	4.225000000000364	trials	counter-clockwise	central alternation	
+13837.566666666666	3.5416666666660603	trials	counter-clockwise	central alternation	
+13846.483333333332	4.1833333333343035	trials	counter-clockwise	central alternation	
+13853.133333333333	2.9583333333321207	trials	counter-clockwise	central alternation	
+13860.858333333332	3.3250000000007276	trials	counter-clockwise	central alternation	
+13866.158333333333	3.25	trials	counter-clockwise	central alternation	
+13873.074999999999	3.633333333333212	trials	counter-clockwise	central alternation	
+13879.383333333333	3.8166666666656965	trials	counter-clockwise	central alternation	
+13886.474999999999	3.7083333333339397	trials	counter-clockwise	central alternation	
+13892.391666666666	3.1666666666660603	trials	counter-clockwise	central alternation	
+13899.641666666666	3.5416666666660603	trials	counter-clockwise	central alternation	
+13899.658333333333	3.4249999999992724	trials	counter-clockwise	central alternation	
+13906.533333333333	3.2999999999992724	trials	counter-clockwise	central alternation	
+13912.408333333333	4.225000000000364	trials	counter-clockwise	central alternation	
+13920.108333333332	4.541666666667879	trials	counter-clockwise	central alternation	
+13932.191666666666	3.133333333333212	trials	counter-clockwise	central alternation	
+13937.824999999999	4.016666666666424	trials	counter-clockwise	central alternation	
+13949.449999999999	3.9083333333328483	trials	counter-clockwise	central alternation	
+13959.816666666666	3.3333333333339397	trials	counter-clockwise	central alternation	
+13965.025	3.5499999999992724	trials	counter-clockwise	central alternation	
+13972.058333333332	4.174999999999272	trials	counter-clockwise	central alternation	
+13979.033333333333	4.274999999999636	trials	counter-clockwise	central alternation	
+13986.641666666666	3.6666666666660603	trials	clockwise	central alternation	
+13992.366666666665	3.4500000000007276	trials	clockwise	central alternation	
+13999.208333333332	3.7833333333328483	trials	clockwise	central alternation	
+14004.808333333332	3.858333333333576	trials	clockwise	central alternation	
+14012.8	4.125	trials	clockwise	central alternation	
+14018.65	3.483333333333576	trials	clockwise	central alternation	
+14025.974999999999	3.883333333333212	trials	clockwise	central alternation	
+14034.9	3.149999999999636	trials	clockwise	central alternation	
+14043.849999999999	3.650000000001455	trials	clockwise	central alternation	
+14049.091666666665	3.733333333333576	trials	clockwise	central alternation	
+14054.625	3.9083333333328483	trials	clockwise	central alternation	
+14060.316666666666	4.625	trials	clockwise	central alternation	
+14070.758333333333	3.508333333333212	trials	clockwise	central alternation	
+14070.758333333333	3.508333333333212	trials	clockwise	central alternation	
+14076.258333333333	3.4249999999992724	trials	clockwise	central alternation	
+14082.691666666666	3.8333333333339397	trials	clockwise	central alternation	
+14089.416666666666	3.9583333333339397	trials	clockwise	central alternation	
+14089.416666666666	3.733333333333576	trials	clockwise	central alternation	
+14097.483333333332	3.866666666666788	trials	clockwise	central alternation	
+14120.9	3.5749999999989086	trials	clockwise	central alternation	
+14144.0	8.0	sleep_states			Non-REM
+14153.0	45.0	sleep_states			MA
+14160.949999999999	3.7083333333339397	trials	clockwise	central alternation	
+14175.666666666666	3.383333333333212	trials	clockwise	central alternation	
+14191.849999999999	3.25	trials	clockwise	central alternation	
+14197.158333333333	4.3166666666656965	trials	clockwise	central alternation	
+14199.0	7.0	sleep_states			Non-REM
+14207.0	824.0	sleep_states			Awake
+14207.883333333333	3.116666666666788	trials	clockwise	central alternation	
+14218.574999999999	3.241666666666788	trials	clockwise	central alternation	
+14222.808333333332	3.258333333333212	trials	clockwise	central alternation	
+14227.991666666665	3.400000000001455	trials	clockwise	central alternation	
+14228.166666666666	3.4499999999989086	trials	clockwise	central alternation	
+14249.0	3.1999999999989086	trials	clockwise	central alternation	
+14258.074999999999	3.391666666666424	trials	clockwise	central alternation	
+14258.233333333332	3.233333333333576	trials	clockwise	central alternation	
+14267.849999999999	3.1833333333343035	trials	clockwise	central alternation	
+14275.691666666666	3.4666666666671517	trials	clockwise	central alternation	
+14284.316666666666	3.9500000000007276	trials	clockwise	central alternation	
+14293.483333333332	3.725000000000364	trials	clockwise	central alternation	
+14302.691666666666	3.1749999999992724	trials	clockwise	central alternation	
+14313.175	3.2833333333328483	trials	clockwise	central alternation	
+14324.291666666666	3.225000000000364	trials	clockwise	central alternation	
+14348.074999999999	3.274999999999636	trials	clockwise	central alternation	
+14354.5	4.04166666666606	trials	clockwise	central alternation	
+14364.125	3.4666666666653327	trials	clockwise	central alternation	
+14380.625	2.991666666664969	trials	clockwise	central alternation	
+14390.324999999999	4.300000000001091	trials	clockwise	central alternation	
+14401.533333333333	3.5	trials	clockwise	central alternation	
+14408.041666666666	3.241666666666788	trials	clockwise	central alternation	
+14414.925	3.766666666666424	trials	clockwise	central alternation	
+14421.025	3.3166666666656965	trials	clockwise	central alternation	
+14428.116666666665	3.741666666666788	trials	clockwise	central alternation	
+14433.474999999999	3.525000000001455	trials	clockwise	central alternation	
+14450.525	3.3166666666656965	trials	clockwise	central alternation	
+14458.8	3.391666666666424	trials	clockwise	central alternation	
+14466.116666666665	3.7916666666678793	trials	clockwise	central alternation	
+14471.324999999999	3.4166666666660603	trials	clockwise	central alternation	
+14482.108333333332	3.4666666666671517	trials	clockwise	central alternation	
+14486.974999999999	3.9666666666671517	trials	clockwise	central alternation	
+14493.15	4.04166666666606	trials	clockwise	central alternation	
+14499.708333333332	4.033333333332848	trials	clockwise	central alternation	
+14509.216666666665	3.4666666666671517	trials	clockwise	central alternation	
+14515.691666666666	3.116666666666788	trials	clockwise	central alternation	
+14523.616666666665	3.266666666668243	trials	clockwise	central alternation	
+14542.341666666665	4.149999999999636	trials	clockwise	central alternation	
+14550.974999999999	3.2166666666671517	trials	clockwise	central alternation	
+14564.391666666666	3.875	trials	clockwise	central alternation	
+14572.691666666666	3.233333333333576	trials	clockwise	central alternation	
+14581.933333333332	3.6583333333328483	trials	clockwise	central alternation	
+14589.758333333333	3.108333333331757	trials	clockwise	central alternation	
+14594.883333333333	3.891666666666424	trials	clockwise	central alternation	
+14594.974999999999	3.5500000000010914	trials	clockwise	central alternation	
+14618.808333333332	2.625	trials	clockwise	central alternation	
+14644.416666666666	3.0	trials	clockwise	central alternation	
+14651.175	3.375	trials	clockwise	central alternation	
+14655.625	3.4166666666660603	trials	clockwise	central alternation	
+14668.133333333333	4.1916666666656965	trials	clockwise	central alternation	
+14676.633333333333	3.75	trials	clockwise	central alternation	
+14725.641666666666	4.54166666666606	trials	clockwise	central alternation	
+14735.108333333332	3.975000000000364	trials	clockwise	central alternation	
+14742.458333333332	4.016666666666424	trials	clockwise	central alternation	
+14747.591666666665	3.891666666666424	trials	clockwise	central alternation	
+14758.066666666666	4.725000000000364	trials	clockwise	central alternation	
+14767.058333333332	4.0	trials	clockwise	central alternation	
+14774.15	4.100000000000364	trials	clockwise	central alternation	
+14781.474999999999	3.975000000000364	trials	clockwise	central alternation	
+14791.658333333333	4.366666666666788	trials	clockwise	central alternation	
+14798.116666666665	4.4416666666675155	trials	clockwise	central alternation	
+14804.691666666666	6.516666666666424	trials	clockwise	central alternation	
+14814.658333333333	4.824999999998909	trials	counter-clockwise	wheel alternation	
+14821.408333333333	4.6916666666656965	trials	counter-clockwise	wheel alternation	
+14828.65	4.833333333332121	trials	counter-clockwise	wheel alternation	
+14838.041666666666	4.966666666667152	trials	counter-clockwise	wheel alternation	
+14845.25	4.658333333332848	trials	counter-clockwise	wheel alternation	
+14854.008333333333	4.8083333333324845	trials	counter-clockwise	wheel alternation	
+14864.025	4.333333333332121	trials	counter-clockwise	wheel alternation	
+14872.691666666666	4.766666666666424	trials	counter-clockwise	wheel alternation	
+14880.258333333333	4.233333333331757	trials	counter-clockwise	wheel alternation	
+14890.683333333332	4.04166666666606	trials	counter-clockwise	wheel alternation	
+14903.991666666665	4.533333333334667	trials	counter-clockwise	wheel alternation	
+14936.641666666666	4.5	trials	counter-clockwise	wheel alternation	
+14944.108333333332	4.050000000001091	trials	counter-clockwise	wheel alternation	
+15032.0	7.0	sleep_states			Non-REM
+15040.0	98.0	sleep_states			MA
+15047.908333333333	3.4583333333321207	trials	counter-clockwise	wheel alternation	
+15051.366666666665	11382.965333333334	epochs			
+15139.0	35.0	sleep_states			Non-REM
+15175.0	575.0	sleep_states			Awake
+15751.0	7.0	sleep_states			Non-REM
+15759.0	9.0	sleep_states			MA
+15769.0	10.0	sleep_states			Non-REM
+15780.0	7.0	sleep_states			MA
+15788.0	12.0	sleep_states			Non-REM
+15801.0	338.0	sleep_states			Awake
+16140.0	7.0	sleep_states			Non-REM
+16148.0	14.0	sleep_states			MA
+16163.0	203.0	sleep_states			Non-REM
+16367.0	11.0	sleep_states			MA
+16379.0	71.0	sleep_states			Non-REM
+16451.0	8.0	sleep_states			MA
+16460.0	32.0	sleep_states			Non-REM
+16493.0	208.0	sleep_states			Awake
+16702.0	7.0	sleep_states			Non-REM
+16710.0	12.0	sleep_states			MA
+16723.0	113.0	sleep_states			Non-REM
+16837.0	248.0	sleep_states			Awake
+17086.0	19.0	sleep_states			Non-REM
+17106.0	9.0	sleep_states			MA
+17116.0	60.0	sleep_states			Non-REM
+17177.0	72.0	sleep_states			MA
+17250.0	10.0	sleep_states			Non-REM
+17261.0	10.0	sleep_states			MA
+17272.0	231.0	sleep_states			Non-REM
+17504.0	397.0	sleep_states			Awake
+17902.0	54.0	sleep_states			Non-REM
+17957.0	25.0	sleep_states			MA
+17983.0	545.0	sleep_states			Non-REM
+18529.0	28.0	sleep_states			MA
+18558.0	219.0	sleep_states			Non-REM
+18778.0	35.0	sleep_states			MA
+18814.0	125.0	sleep_states			Non-REM
+18940.0	24.0	sleep_states			MA
+18965.0	16.0	sleep_states			Non-REM
+18982.0	28.0	sleep_states			MA
+19011.0	16.0	sleep_states			Non-REM
+19028.0	13.0	sleep_states			MA
+19042.0	224.0	sleep_states			Non-REM
+19267.0	12.0	sleep_states			REM
+19280.0	32.0	sleep_states			Non-REM
+19313.0	13.0	sleep_states			REM
+19327.0	48.0	sleep_states			MA
+19376.0	152.0	sleep_states			Non-REM
+19529.0	16.0	sleep_states			REM
+19546.0	87.0	sleep_states			Non-REM
+19634.0	41.0	sleep_states			REM
+19676.0	57.0	sleep_states			MA
+19734.0	126.0	sleep_states			Non-REM
+19861.0	30.0	sleep_states			MA
+19892.0	486.0	sleep_states			Non-REM
+20379.0	12.0	sleep_states			MA
+20392.0	92.0	sleep_states			Non-REM
+20485.0	31.0	sleep_states			REM
+20517.0	79.0	sleep_states			MA
+20597.0	73.0	sleep_states			Non-REM
+20671.0	42.0	sleep_states			MA
+20714.0	255.0	sleep_states			Non-REM
+20970.0	10.0	sleep_states			MA
+20981.0	56.0	sleep_states			Non-REM
+21038.0	13.0	sleep_states			REM
+21052.0	14.0	sleep_states			Non-REM
+21067.0	80.0	sleep_states			REM
+21148.0	32.0	sleep_states			Non-REM
+21181.0	13.0	sleep_states			MA
+21195.0	312.0	sleep_states			Non-REM
+21508.0	17.0	sleep_states			REM
+21526.0	11.0	sleep_states			MA
+21538.0	256.0	sleep_states			Non-REM
+21795.0	9.0	sleep_states			REM
+21805.0	41.0	sleep_states			MA
+21847.0	104.0	sleep_states			Non-REM
+21952.0	12.0	sleep_states			REM
+21965.0	9.0	sleep_states			MA
+21975.0	12.0	sleep_states			Non-REM
+21988.0	57.0	sleep_states			REM
+22055.0	61.0	sleep_states			REM
+22117.0	18.0	sleep_states			Non-REM
+22136.0	45.0	sleep_states			MA
+22182.0	34.0	sleep_states			Non-REM
+22217.0	7.0	sleep_states			MA
+22225.0	13.0	sleep_states			Non-REM
+22239.0	17.0	sleep_states			MA
+22257.0	10.0	sleep_states			Non-REM
+22268.0	17.0	sleep_states			MA
+22286.0	11.0	sleep_states			Non-REM
+22298.0	17.0	sleep_states			MA
+22316.0	86.0	sleep_states			Non-REM
+22403.0	21.0	sleep_states			MA
+22425.0	173.0	sleep_states			Non-REM
+22599.0	7.0	sleep_states			MA
+22607.0	73.0	sleep_states			Non-REM
+22681.0	69.0	sleep_states			MA
+22751.0	21.0	sleep_states			Non-REM
+22773.0	687.0	sleep_states			Awake
+23461.0	7.0	sleep_states			Non-REM
+23469.0	85.0	sleep_states			MA
+23555.0	9.0	sleep_states			Non-REM
+23565.0	419.0	sleep_states			Awake
+23985.0	39.0	sleep_states			Non-REM
+24025.0	12.0	sleep_states			MA
+24038.0	17.0	sleep_states			Non-REM
+24056.0	7.0	sleep_states			MA
+24064.0	497.0	sleep_states			Non-REM
+24562.0	7.0	sleep_states			MA
+24570.0	62.0	sleep_states			Non-REM
+24633.0	7.0	sleep_states			MA
+24641.0	32.0	sleep_states			Non-REM
+24674.0	24.0	sleep_states			MA
+24699.0	127.0	sleep_states			Non-REM
+24827.0	10.0	sleep_states			MA
+24838.0	165.0	sleep_states			Non-REM
+25004.0	19.0	sleep_states			MA
+25024.0	10.0	sleep_states			Non-REM
+25035.0	26.0	sleep_states			MA
+25062.0	102.0	sleep_states			Non-REM
+25165.0	20.0	sleep_states			MA
+25186.0	46.0	sleep_states			Non-REM
+25233.0	568.0	sleep_states			Awake
+25802.0	8.0	sleep_states			Non-REM
+25811.0	38.0	sleep_states			MA
+25850.0	20.0	sleep_states			Non-REM
+25871.0	152.0	sleep_states			Awake
+26024.0	9.0	sleep_states			Non-REM
+26034.0	18.0	sleep_states			MA
+26053.0	31.0	sleep_states			Non-REM
+26085.0	34.0	sleep_states			MA
+26120.0	44.0	sleep_states			Non-REM
+26165.0	32.0	sleep_states			MA
+26198.0	30.0	sleep_states			Non-REM
+26229.0	20.0	sleep_states			MA
+26250.0	45.0	sleep_states			Non-REM
+26296.0	133.0	sleep_states			Awake
