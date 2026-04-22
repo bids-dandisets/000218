@@ -1,0 +1,174 @@
+onset	duration	nwb_table	direction	trial_type	label
+0.0	4945.916666666667	epochs			
+5.0	19.0	sleep_states			Non-REM
+25.0	652.0	sleep_states			Awake
+678.0	7.0	sleep_states			Non-REM
+686.0	932.0	sleep_states			Awake
+1619.0	264.0	sleep_states			Non-REM
+1884.0	13.0	sleep_states			MA
+1898.0	59.0	sleep_states			Non-REM
+1958.0	27.0	sleep_states			MA
+1986.0	49.0	sleep_states			Non-REM
+2036.0	10.0	sleep_states			MA
+2047.0	155.0	sleep_states			Non-REM
+2203.0	172.0	sleep_states			REM
+2376.0	19.0	sleep_states			MA
+2396.0	1100.0	sleep_states			Non-REM
+3497.0	12.0	sleep_states			MA
+3510.0	252.0	sleep_states			Non-REM
+3763.0	82.0	sleep_states			REM
+3860.0	102.0	sleep_states			REM
+3963.0	240.0	sleep_states			Awake
+4204.0	146.0	sleep_states			Non-REM
+4351.0	8.0	sleep_states			MA
+4360.0	88.0	sleep_states			Non-REM
+4449.0	73.0	sleep_states			MA
+4523.0	9.0	sleep_states			Non-REM
+4533.0	11.0	sleep_states			MA
+4545.0	10.0	sleep_states			Non-REM
+4556.0	30.0	sleep_states			MA
+4587.0	8.0	sleep_states			Non-REM
+4596.0	30.0	sleep_states			MA
+4627.0	7.0	sleep_states			Non-REM
+4635.0	1866.0	sleep_states			Awake
+4945.916666666667	1525.2416666666668	epochs			
+4945.916666666667	4.691666666666606	trials	clockwise	wheel alternation	
+4964.741666666667	4.58333333333394	trials	clockwise	wheel alternation	
+5024.491666666667	5.175000000000182	trials	clockwise	wheel alternation	
+5076.333333333334	4.70833333333303	trials	clockwise	wheel alternation	
+5092.025000000001	5.141666666666424	trials	clockwise	wheel alternation	
+5197.908333333334	4.908333333332848	trials	clockwise	wheel alternation	
+5215.841666666667	5.233333333333576	trials	clockwise	wheel alternation	
+5258.3	4.741666666666788	trials	clockwise	wheel alternation	
+5267.3	5.525000000000546	trials	clockwise	wheel alternation	
+5276.125	4.591666666667152	trials	clockwise	wheel alternation	
+5284.275000000001	4.899999999999636	trials	clockwise	wheel alternation	
+5290.35	4.716666666666242	trials	clockwise	wheel alternation	
+5299.075000000001	4.33333333333303	trials	clockwise	wheel alternation	
+5306.441666666667	4.616666666666788	trials	clockwise	wheel alternation	
+5314.1	4.266666666666424	trials	clockwise	wheel alternation	
+5320.925	4.616666666666788	trials	clockwise	wheel alternation	
+5330.733333333334	4.091666666667152	trials	clockwise	wheel alternation	
+5337.941666666667	4.658333333333758	trials	clockwise	wheel alternation	
+5351.066666666667	4.533333333333758	trials	clockwise	wheel alternation	
+5358.958333333334	4.324999999999818	trials	clockwise	wheel alternation	
+5366.191666666667	1.991666666666788	trials	clockwise	wheel alternation	
+5369.683333333333	5.033333333333758	trials	clockwise	wheel alternation	
+5378.325000000001	4.95833333333303	trials	clockwise	wheel alternation	
+5399.508333333333	4.550000000000182	trials	clockwise	wheel alternation	
+5407.133333333333	4.225000000000364	trials	clockwise	wheel alternation	
+5413.916666666667	4.433333333333394	trials	clockwise	wheel alternation	
+5421.625	4.258333333333212	trials	clockwise	wheel alternation	
+5428.775000000001	4.366666666666788	trials	counter-clockwise	wheel alternation	
+5436.333333333334	4.483333333332666	trials	counter-clockwise	wheel alternation	
+5443.55	4.466666666667152	trials	counter-clockwise	wheel alternation	
+5458.941666666667	3.816666666666606	trials	counter-clockwise	wheel alternation	
+5465.266666666667	4.574999999999818	trials	counter-clockwise	wheel alternation	
+5520.075000000001	5.516666666666424	trials	counter-clockwise	wheel alternation	
+5533.233333333334	5.100000000000364	trials	counter-clockwise	wheel alternation	
+5542.108333333334	4.366666666666788	trials	counter-clockwise	wheel alternation	
+5550.858333333334	4.5	trials	counter-clockwise	wheel alternation	
+5560.391666666667	4.258333333333212	trials	counter-clockwise	wheel alternation	
+5570.200000000001	4.5	trials	counter-clockwise	wheel alternation	
+5598.441666666667	4.025000000000546	trials	counter-clockwise	wheel alternation	
+5604.758333333333	4.20833333333394	trials	counter-clockwise	wheel alternation	
+5613.6	3.9666666666662422	trials	counter-clockwise	wheel alternation	
+5621.05	4.141666666666424	trials	counter-clockwise	wheel alternation	
+5628.958333333334	4.149999999999636	trials	counter-clockwise	wheel alternation	
+5646.566666666667	4.383333333334122	trials	counter-clockwise	wheel alternation	
+5654.983333333334	4.550000000000182	trials	counter-clockwise	wheel alternation	
+5675.058333333333	5.358333333333576	trials	counter-clockwise	wheel alternation	
+5683.741666666667	4.850000000000364	trials	counter-clockwise	wheel alternation	
+5691.658333333334	4.741666666666788	trials	counter-clockwise	wheel alternation	
+5699.383333333333	4.875	trials	counter-clockwise	wheel alternation	
+5707.458333333334	4.449999999999818	trials	counter-clockwise	wheel alternation	
+5717.150000000001	4.241666666666788	trials	counter-clockwise	wheel alternation	
+5725.133333333333	4.325000000000728	trials	counter-clockwise	wheel alternation	
+5733.441666666667	4.391666666667334	trials	counter-clockwise	wheel alternation	
+5741.25	4.216666666667152	trials	counter-clockwise	wheel alternation	
+5749.85	4.524999999999636	trials	counter-clockwise	wheel alternation	
+5756.9	4.716666666667152	trials	counter-clockwise	wheel alternation	
+5764.258333333333	4.716666666667152	trials	counter-clockwise	wheel alternation	
+5772.583333333334	4.366666666666788	trials	counter-clockwise	wheel alternation	
+5779.016666666666	4.58333333333394	trials	counter-clockwise	wheel alternation	
+5786.25	4.758333333333212	trials	counter-clockwise	wheel alternation	
+5802.375	4.649999999999636	trials	counter-clockwise	wheel alternation	
+5809.208333333334	4.716666666666242	trials	counter-clockwise	wheel alternation	
+5816.208333333334	5.20833333333303	trials	counter-clockwise	wheel alternation	
+5824.308333333334	4.799999999999272	trials	counter-clockwise	wheel alternation	
+5831.975	4.566666666666606	trials	counter-clockwise	wheel alternation	
+5839.208333333334	4.4416666666656965	trials	counter-clockwise	wheel alternation	
+5846.35	4.816666666666606	trials	counter-clockwise	wheel alternation	
+5865.700000000001	5.074999999998909	trials	counter-clockwise	wheel alternation	
+5884.575000000001	4.83333333333303	trials	counter-clockwise	wheel alternation	
+5902.466666666667	4.891666666666424	trials	counter-clockwise	wheel alternation	
+5910.383333333333	4.641666666666424	trials	counter-clockwise	wheel alternation	
+5919.983333333334	4.524999999999636	trials	counter-clockwise	wheel alternation	
+5932.958333333334	4.674999999999272	trials	clockwise	wheel alternation	
+5940.200000000001	5.033333333332848	trials	clockwise	wheel alternation	
+5948.916666666667	4.925000000000182	trials	clockwise	wheel alternation	
+5982.6	4.808333333333394	trials	clockwise	wheel alternation	
+5991.05	4.308333333333394	trials	clockwise	wheel alternation	
+5999.225	4.774999999999636	trials	clockwise	wheel alternation	
+6033.083333333334	4.899999999999636	trials	clockwise	wheel alternation	
+6043.35	4.475000000000364	trials	clockwise	wheel alternation	
+6050.583333333334	5.16666666666606	trials	clockwise	wheel alternation	
+6060.1	4.174999999999272	trials	clockwise	wheel alternation	
+6067.308333333334	4.549999999999272	trials	clockwise	wheel alternation	
+6083.666666666667	4.641666666667334	trials	clockwise	wheel alternation	
+6098.533333333334	4.474999999999454	trials	clockwise	wheel alternation	
+6106.891666666666	4.600000000000364	trials	clockwise	wheel alternation	
+6115.733333333334	4.533333333332848	trials	counter-clockwise	wheel alternation	
+6122.725	4.533333333332848	trials	counter-clockwise	wheel alternation	
+6131.058333333334	4.241666666665878	trials	counter-clockwise	wheel alternation	
+6138.65	4.4416666666675155	trials	counter-clockwise	wheel alternation	
+6145.675	4.45833333333303	trials	counter-clockwise	wheel alternation	
+6153.1916666666675	4.741666666666788	trials	counter-clockwise	wheel alternation	
+6160.583333333334	4.649999999999636	trials	counter-clockwise	wheel alternation	
+6168.75	4.475000000000364	trials	counter-clockwise	wheel alternation	
+6177.408333333334	4.275000000000546	trials	counter-clockwise	wheel alternation	
+6184.0666666666675	4.6916666666656965	trials	counter-clockwise	wheel alternation	
+6192.05	4.175000000000182	trials	counter-clockwise	wheel alternation	
+6199.308333333334	4.9333333333324845	trials	counter-clockwise	wheel alternation	
+6207.233333333334	4.183333333333394	trials	counter-clockwise	wheel alternation	
+6215.833333333334	4.233333333333576	trials	counter-clockwise	wheel alternation	
+6223.825000000001	4.549999999999272	trials	counter-clockwise	wheel alternation	
+6230.933333333334	4.5666666666656965	trials	counter-clockwise	wheel alternation	
+6241.5	5.241666666666788	trials	counter-clockwise	wheel alternation	
+6249.65	4.6833333333343035	trials	counter-clockwise	wheel alternation	
+6257.625	4.550000000000182	trials	clockwise	wheel alternation	
+6266.925	4.45833333333303	trials	clockwise	wheel alternation	
+6276.041666666667	5.175000000000182	trials	clockwise	wheel alternation	
+6285.4	4.491666666666788	trials	clockwise	wheel alternation	
+6293.083333333334	4.41666666666606	trials	clockwise	wheel alternation	
+6303.6916666666675	4.399999999999636	trials	clockwise	wheel alternation	
+6311.833333333334	4.850000000000364	trials	clockwise	wheel alternation	
+6319.6916666666675	4.599999999999454	trials	clockwise	wheel alternation	
+6326.450000000001	4.358333333333576	trials	clockwise	wheel alternation	
+6333.916666666667	4.54166666666697	trials	clockwise	wheel alternation	
+6343.408333333334	4.050000000000182	trials	clockwise	wheel alternation	
+6350.85	4.524999999999636	trials	clockwise	wheel alternation	
+6361.791666666667	4.566666666666606	trials	clockwise	wheel alternation	
+6369.85	4.299999999999272	trials	clockwise	wheel alternation	
+6378.133333333333	4.300000000001091	trials	clockwise	wheel alternation	
+6425.9416666666675	4.833333333332121	trials	counter-clockwise	wheel alternation	
+6465.983333333334	5.175000000000182	trials	counter-clockwise	wheel alternation	
+6471.158333333334	3371.961666666667	epochs			
+6502.0	43.0	sleep_states			Non-REM
+6546.0	847.0	sleep_states			Awake
+7394.0	147.0	sleep_states			Non-REM
+7542.0	91.0	sleep_states			MA
+7634.0	386.0	sleep_states			Non-REM
+8021.0	32.0	sleep_states			REM
+8054.0	193.0	sleep_states			Awake
+8248.0	20.0	sleep_states			Non-REM
+8269.0	94.0	sleep_states			MA
+8364.0	11.0	sleep_states			Non-REM
+8376.0	18.0	sleep_states			MA
+8395.0	7.0	sleep_states			Non-REM
+8403.0	34.0	sleep_states			MA
+8438.0	655.0	sleep_states			Non-REM
+9094.0	49.0	sleep_states			REM
+9155.0	192.0	sleep_states			REM
+9348.0	16.0	sleep_states			MA
+9365.0	473.0	sleep_states			Non-REM
